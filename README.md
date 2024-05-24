@@ -1,6 +1,6 @@
 <img src="https://res.cloudinary.com/dxhzgd9ms/image/upload/v1716544431/My_Profile-png_vhrdmb.png" alt="Minthang GitHub README header image">
 <p align="center">
-  <a href="https://www.minthang.com"><img src="https://www.minthang.com/favicon.ico" height=25></a> 
+  <a href="https://www.minthang.com"><img src="https://www.minthang.com/minthangl.png" height=25></a> 
   <a href="https://www.linkedin.com/in/minthang-ml-5848801a7"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
   <a href="https://minthangml.medium.com"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a>
   <a href="https://dev.to/minthang">
