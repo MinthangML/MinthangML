@@ -1,4 +1,4 @@
-<img src="https://github.com/Mokkapps/mokkapps/blob/master/header.png" alt="Mokkapps GitHub README header image">
+<img src="https://wallpapercave.com/wp/wp9109383.jpg" alt="Mokkapps GitHub README header image">
 <p align="center">
   <a href="https://www.minthang.com"><img src="https://www.minthang.com/favicon.ico" height=25></a> 
   <a href="https://www.linkedin.com/in/minthang-ml-5848801a7"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
